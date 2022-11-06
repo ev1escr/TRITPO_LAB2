@@ -79,6 +79,7 @@ Rate Your Music — база метаданных, позволяющая пол
 
 ## 2.2 Интерфейс пользователя  
 <a name="user_interface"/>
+
 ![Окно профиля](https://github.com/ev1escr/TRITPO_LAB2/blob/main/mockups/profile.png)
 
 ![Окно музыкальных предложений](https://github.com/ev1escr/TRITPO_LAB2/blob/main/mockups/suggestions.png)
